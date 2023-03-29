@@ -8,4 +8,4 @@ I'm from Taiwan, and I'm been to Belgium for 3 years.
 - Watching movie adn TV series
 - Cats :cat:
 
-[a cute cat](introduction\img\cat-img.jpg)
+![a cute cat](img/cat-img.jpg)
