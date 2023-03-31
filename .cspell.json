@@ -1,6 +1,17 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Introdcution",
+    "Chisakula",
+    "intrestes",
+    "alot",
+    "intresting",
+    "Travelling",
+    "currenlty",
+    "intrest"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
